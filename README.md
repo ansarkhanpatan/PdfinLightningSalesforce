@@ -3,3 +3,4 @@ where as in Salesforce lightning platform this feature is not available as part 
 page view as PDF 
 
 
+![Uploading PrintPdf.gif…]()
